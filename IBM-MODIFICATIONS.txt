@@ -1,0 +1,5 @@
+iOS - splashscreen never closes
+- Worklight RTC work item number: Defect 91655
+- Apache Cordova Jira issue: CB-9327
+- Markmail or Google Group reference: none
+- Splashscreen not receiving CDVPageLoadNotification 
